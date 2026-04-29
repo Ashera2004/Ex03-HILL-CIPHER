@@ -29,7 +29,7 @@ STEP-5: Combine all these groups to get the complete cipher text.
 
 
 ## PROGRAM 
-
+```c
 // Hill Cipher
 //Program by Siddarth A S 212224040316
 #include <stdio.h>
@@ -134,6 +134,7 @@ int main() {
 
     return 0;
 }
+```
 ## OUTPUT
 
 <img width="1918" height="976" alt="Screenshot 2026-04-29 093057" src="https://github.com/user-attachments/assets/d3a65f6f-90d6-4b41-b9d6-bbeca3c0ba0e" />
