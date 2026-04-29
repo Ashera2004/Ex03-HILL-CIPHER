@@ -3,12 +3,12 @@
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
+
 int keymat[3][3] = {
     {1, 2, 1},
     {2, 3, 2},
     {2, 2, 1}
 };
-
 int invkeymat[3][3] = {
     {-1, 0, 1},
     {2, -1, 0},
